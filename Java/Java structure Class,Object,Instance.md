@@ -9,6 +9,7 @@
 > 객체를 만들기 위한 설계도
 >
 > *변수와 메서드의 집합*
+> 실제 프로그램 안에서 속성은 Field(Member Variable)의 형태로 동작은 Method로 표현.
 
  * **Object**
 
