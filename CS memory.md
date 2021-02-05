@@ -1,6 +1,6 @@
 ### Memory Structure
 
-`변수 선언 =>` 해당 변수 타입으로 메모리를 할당!
+`변수 선언` =>  해당 변수 타입으로 메모리를 할당!
 
 1. Variable data type 예시
 

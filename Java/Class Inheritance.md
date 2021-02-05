@@ -2,7 +2,7 @@
 
 ---
 
-> `클래스간의 상하 관계` _SuperClass 혹은 ParentClass 로부터 SubClass를 만드는것
+> `클래스간의 상하 관계` SuperClass 혹은 ParentClass 로부터 SubClass를 만드는것
 >
 > `상속이라는 관계를 통해 계층구조 형성`
 

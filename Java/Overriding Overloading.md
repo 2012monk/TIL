@@ -2,7 +2,7 @@
 
 ---
 
-- Method Overriding
+- ##### Method Overriding
 
   > `상속관계에 있는 부모클래스에서 정의된 메소드를 자식클래스에서 재정의`
   >
@@ -15,7 +15,7 @@
   >   - 추상클래스, 인터페이스에서 필수적으로 사용
   > - 부모 메소드 은닉, 재정의된 메소드만 호출 _super._ 으로 부모 메소드 호출가능
 
-- Method Overloading
+- ##### Method Overloading
 
   > _Method Signature_ **메소드의 선언부에 명시되는 매개변수의 리스트**
   >
