@@ -14,7 +14,7 @@
   >
   >Bit OR 연산 각
 
-* **& AND 연산** *Npercent* 
+* **& AND 연산** `Ampersand` 
 
   >`논리곱`
 
