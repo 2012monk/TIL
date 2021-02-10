@@ -65,10 +65,13 @@ Strong Cohesion and Weak Coupling
 
 
 3. Polymorphism 다형성
+
+   - 객체지향에서 다형성이란 `여러가지 형태를 가질수 있는 능력`
+
    - 상속성의 계층을 따라서 각각의 클래스에 한가지 이름을 줄수 있는것
    - Method Overloading
    - Method Overriding
-   -  한 요소
+   - 한 요소 에 여러개념을 넣어놓은것.
 
 
 

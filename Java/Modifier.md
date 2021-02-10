@@ -1,8 +1,17 @@
-## 접근제어자 Acess Modifier
+## 접근제어자 Modifier
 
 [참고자료](https://wikidocs.net/232)
 
 ---
+
+- Access Modifier
+  - Public, protected, default, private
+- Other
+  - Static, final, abstract, native, transient, synchronized, volatile, strictfp
+
+
+
+##### access modifier
 
 `public,protected,default,privat` `순서대로 많은 접근을 허용`
 

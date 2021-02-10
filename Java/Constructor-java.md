@@ -29,7 +29,7 @@ _constructor도 overloading 이 가능하므로 여러개 존재가능_
 > ClassName(){}
 > ```
 
-##### Constructor 호출
+##### this() Constructor 호출
 
 * this를 사용해 호출
 * 한 생성자에서 다른생성자를 호출시 반드시 첫줄에서만 가능.
