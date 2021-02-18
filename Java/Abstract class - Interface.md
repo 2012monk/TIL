@@ -37,4 +37,22 @@
 - 인터페이스 타입의 참조변수로 이를 구현한 클래스의 인스턴스를 참조할수있고 인터페이스 타입으로 형변환도 가능
   - 인터페이스  a = new 구현클래스();
   - 매개변수의 타입으로 사용가능, 인터페이스 타입으로 리턴가능
-- 
+- default, static method
+
+> java 1.8 부터 static, default method 가 사용가능
+>
+> `static method`
+>
+> 일반적인 static method 와 같다.
+>
+> `default method`
+>
+> default 키워드로 구현하며 일반 메서드처럼 {} 몸통이 있어야한다
+
+> 여러 인터페이스의 default method 간에 충돌
+>
+> - 인터페이스를 구현한 클래스에서 default method overriding
+>
+> Default method 와 parent class method 간에 충돌
+>
+> - Parent class method 상속되고 default method 무시
