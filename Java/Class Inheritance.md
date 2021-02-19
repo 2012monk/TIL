@@ -6,7 +6,8 @@
 >
 > `상속이라는 관계를 통해 계층구조 형성`
 
-* SuperClass 의 필드와 메소드를 물려받은
+* 접근제어자가 Private일 경우 상속이 불가능하고 defualt일 경우 다른패키지일때 상속이 불가능하다.
+* SuperClass 의 필드와 메소드를 물려받는다
 * 새로운 필드 메소드 추가가능
 * 물려받은 메소드 수정가능 Overriding
 * 동일 superclass를 상속하는 모든 subclass는 타입 호환가능.
