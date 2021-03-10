@@ -8,9 +8,12 @@
 
 `System Bus`
 
+*하드웨어 구성 요소를 물리적으로 연결하는 선*
+
 - 주소버스 `address bus`
   - 기억장치의 주소 또는 입출력장치의 포트를 전달
   - cpu에서 memory, i/o 으로 memory address를 전달하기때문에 *단방향* 버스이다
+  - 주소 선의 수는 시스템의 기억장치 용량을 결정한다 bit단위 한번에 읽어 올수있는 비트수
 - 데이터 버스 `Data bus`
   - Memory, I/O 의 명령어나 데이터를 CPU로 CPU의 연산결과를 Memory, I/O 으로 전달하기에 *양방향* 버스이다
 - 제어 버스 `Control bus`
@@ -32,6 +35,8 @@
 - `Internal Bus`
 
 #### Register
+
+레지스터의 비트수는 cpu 1회 연산에 처리가 가능한 데이터 비트 수 `word 워드` 이다
 
 cpu의 속도와 비슷한 고속 memory, 명령어 세트,연산에 필요한데이터, 연산결과를 임시로 저장한다.
 
