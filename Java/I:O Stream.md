@@ -1,6 +1,6 @@
 #### I/O
 
-> `Input` 입력 과 `Output` 
+> `Input` 입력 과 `Output 출력` 
 >
 > 컴퓨터 내부 또는 외부의 장치와 프로그램간 데이터를 주고 받는것.
 
@@ -24,19 +24,17 @@
 
 ##### InputStream
 
-> `Java.io.InputStream` 
+> `java.io.InputStream`  byte 기반 스트림
 >
-> *\* This abstract class is the superclass of all classes representing*
+> `java.io.Reader` 문자 기반 스트림
 >
->  *\* an input stream of bytes.*
+> *This abstract class is the superclass of all classes representing*
 >
-> 바이트기반 스트림 의 추상클래스
+> _an input stream of bytes._
 >
-> InputStream --
-> 						FileInputStream.				
-> 						ByteArrayInputStream.
-> 						PipedInputStream
-> 						AudioInputStream
+> 구현되어 있는 InputStream 의 subclass 이며 상속받은 클래스는 read() 와 write()를 각각 용도에 맞게 Override
+>
+> 
 >
 > 
 >
